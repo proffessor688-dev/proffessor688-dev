@@ -47,6 +47,5 @@ I am a passionate Full-Stack Developer dedicated to building scalable web applic
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=base&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad." alt="Quote" />
   
   <br />
-  <p>Total Profile Visits</p>
-  <img src="https://visitcount.itsvg.in/api?id=proffessor688-dev&icon=0&color=1" />
+
 </div>
