@@ -67,24 +67,8 @@
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proffessor688-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proffessor688-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" height="170px" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=proffessor688-dev&theme=neon&hide_border=false" alt="Streak" />
-</div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=base&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad." alt="Quote" />
+  
 
-<br />
-
-<div align="center">
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=proffessor688-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=proffessor688-dev&icon=0&color=0" />
 </div>
