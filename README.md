@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shubham%20Kumar&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shubham%20Vats&fontSize=70&animation=fadeIn" />
   
   <h3>🚀 Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 
