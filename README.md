@@ -77,7 +77,7 @@
 </details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Visitors&color=brightgreen&style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubham-kumar-41330b2b1.shubham-kumar-41330b2b1" alt="Visitors Badge"/>
 </p>
 
 ---
