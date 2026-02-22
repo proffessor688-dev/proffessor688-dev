@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-🔭 **Currently Working On:** Building **KNOX**, an AI-powered character chat platform using the MERN stack, advanced authentication, and real-time Socket.io interactions.
+🔭 Currently Working On: Building a Job Distribution & Task Processing System using the MERN stack, advanced authentication, and real-time Socket.io interactions..
 
 👯 **Looking to Collaborate On:** Full-stack web projects, AI/ML integrations, open-source tools, and innovative startup ideas.
 
