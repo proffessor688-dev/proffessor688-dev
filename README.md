@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-🔭 Currently Working On: Building a Job Distribution & Task Processing System using the MERN stack, advanced authentication, and real-time Socket.io interactions..
+🔭 Developing a Scalable Job Distribution & Task Processing System featuring Redis queue architecture, concurrent workers, secure authentication, and real-time updates via Socket.io.
 
 👯 **Looking to Collaborate On:** Full-stack web projects, AI/ML integrations, open-source tools, and innovative startup ideas.
 
