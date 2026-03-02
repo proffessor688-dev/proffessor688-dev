@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shubham%20Vats&fontSize=70&animation=fadeIn" />
   
-  <h3>🚀 Full-Stack Developer </h3>
+  <h3>
+    Full-Stack Developer </h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/shubham-kumar-41330b2b1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
